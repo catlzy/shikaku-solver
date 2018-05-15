@@ -7,4 +7,4 @@ This repository contains a solver for the Shikaku puzzle developed by Nikoli and
 The program uses backtracking with forward checking. To run the program, download the puzzle folder and the two python files. In terminal, run `python ShikakuSolver.py`.
 
 ## Results
-The solver is able to solve 376 out of the 410 puzzles under 100 seconds. 
+The solver is able to solve 376 out of the 410 puzzles in 100 seconds. 
